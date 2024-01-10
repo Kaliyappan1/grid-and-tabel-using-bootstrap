@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(86, 38, 139);
+    color: white;
+}
+/* h1,p,h2,h3,h4,h5,h6{
+    color: rgb(255, 255, 255);
+    
+} */
+
+
+.p50{
+    padding: 10px;
+}
+
+.img{
+    border: solid 1px rgb(183, 155, 155);
+}
+.colorr{
+    background-color: aliceblue;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    padding: 5px;
+
+}
+.apply{
+    display: flex;
+    
+}
+buttion:hover{
+    background-color: rgb(6, 112, 6);
+}
